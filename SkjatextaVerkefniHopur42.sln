@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkjatextaVerkefniHopur42", "SkjatextaVerkefniHopur42\SkjatextaVerkefniHopur42.csproj", "{60FCA1FF-2627-455B-8A5A-303DB2F26336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkjatextaVerkefniHopur42.Tests", "SkjatextaVerkefniHopur42.Tests\SkjatextaVerkefniHopur42.Tests.csproj", "{A2E41E8C-0322-4620-AFE1-75148C7BB6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FCA1FF-2627-455B-8A5A-303DB2F26336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FCA1FF-2627-455B-8A5A-303DB2F26336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FCA1FF-2627-455B-8A5A-303DB2F26336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FCA1FF-2627-455B-8A5A-303DB2F26336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E41E8C-0322-4620-AFE1-75148C7BB6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E41E8C-0322-4620-AFE1-75148C7BB6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E41E8C-0322-4620-AFE1-75148C7BB6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E41E8C-0322-4620-AFE1-75148C7BB6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
