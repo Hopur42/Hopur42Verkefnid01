@@ -160,6 +160,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Models\Comment.cs" />
+    <Compile Include="Models\SubtitleFile.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -167,9 +168,12 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
-    <Compile Include="Models\subtitleRequest.cs" />
+    <Compile Include="Models\SubtitleRequest.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\VideoTitle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\IVideoTitleRepository.cs" />
+    <Compile Include="Repositories\VideoTitleRepository.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>

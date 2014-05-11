@@ -5,7 +5,7 @@ using System.Web;
 
 namespace SkjatextaVerkefniHopur42.Models
 {
-    public class subtitleRequest
+    public class SubtitleRequest
     {
         public string name;
         public string link;
